@@ -15,3 +15,5 @@ Sample test scripts for the AttendX student attendance application.
 ## How to Run
 python login_test.py
 python attendance_test.py
+
+Maintained by the AttendX QA team.
