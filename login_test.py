@@ -5,7 +5,7 @@ def test_login():
     assert username != ""
     assert password != ""
 
-    print("Login input validation test passed")
+   print("Login input validation test passed - Version 2")
 
 
 if __name__ == "__main__":
